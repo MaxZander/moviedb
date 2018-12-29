@@ -1,2 +1,2 @@
-# moviedb
-Site web moviedb
+# Moviedb
+Search movie and get poster
